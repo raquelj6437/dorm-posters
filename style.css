@@ -68,4 +68,17 @@ h3 {
 }
 
 /*"Pop Culture Fanatic"*/
+#mj {
+  margin:auto;
+}
 
+#beyonce {
+  border: 10px solid purple;
+  margin:auto;
+  margin-top: 20px;
+}
+
+.mjbey {
+  height: 200px;
+  display: block;
+}
