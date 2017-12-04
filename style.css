@@ -43,10 +43,29 @@ h3 {
 #woody {
   padding: 55.5px 32.5px;
   background-color: white;
+  border: 15px solid red;
+  margin-left:70px;
+}
+
+#newyork{
+  border: 15px solid red;
+  margin-left:50px;
 }
 
 /*"The Art History Major"*/
+#warhol {
+  height: 300px;
+}
 
+#picasso {
+  height: 300px;
+}
+
+.double{
+  border: 20px solid navy;
+  text-align:center;
+  background-color: white;
+}
 
 /*"Pop Culture Fanatic"*/
 
